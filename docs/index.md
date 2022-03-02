@@ -1,4 +1,4 @@
-Title:   Data Management for reproducible science
+Title:   DataLad Workshop
 Summary: Overview of the workshop and its scope
 Authors: Adina Wagner
 Date:    2022

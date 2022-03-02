@@ -6,7 +6,7 @@ repo_name: adswa/dl-workshop
 docs_dir: docs
 copyright: 'Copyright &copy 2022 Adina Wagner'
 nav:
-  - Data Management Workshop with DataLad: index.md
+  - DataLad Workshop: index.md
   - Preperations for participants: content/getting_started.md
   - Content:
       - Schedule: content/welcome.md
