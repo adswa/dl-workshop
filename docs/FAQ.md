@@ -1,16 +1,17 @@
 ## When and where will the workshop take place?
 
-November 18th, 9am - 5pm UTC+1 (Berlin Winter Time).
-The workshop will be help virtually via the video conference system [BigBlueButton](https://bigbluebutton.org/).
+On Thursday, April 21st 2022, and Friday, April 22nd 2022 from 9am - 1pm (Berlin time).
+The workshop will be help virtually via the video conference system [Zoom](https://zoom.us).
 
 ## How can I participate in the workshop?
 
-Please register by November 1st via [this Google Form](https://forms.gle/4DarZ5XFihQwSKZ7A).
+Please register via [this Google Form](https://forms.gle/vGtkpfNGasutV4Rt7).
 We will send out a link and password to the video conference prior to the workshop.
 
-## I can't join a full day - is this a problem?
+## I can't join both days - is this a problem?
 
-Not at all. We will make sure to record the tutorials and publish them after the workshop (see below).
+We will make sure to record the tutorials and publish them after the workshop (see below), and you can join or leave the Zoom call freely during the workshop days.
+However, most elements of the workshop build up consecutively and we can't guarantee that you can join in live participation smoothly at all times.
 
 ## Are materials and talks available after the workshop as well?
 
@@ -24,9 +25,9 @@ We don't require specific technical or study background - if you are interested 
 ## Other Questions?
 
 Please get in touch!
-We encourage you to submit an [issue](https://github.com/adswa/mpi-datamanagement-ws/issues/new/choose) with your question or request to our GitHub repository.
+We encourage you to submit an [issue](https://github.com/adswa/dl-workshop) with your question or request to our GitHub repository.
 
 ## Alternative means of contact
 
-You can reach us by writing an e-mail with the subject header **"MPI Data Management Workshop"** to [datamanagement.mpi@gmail.com](mailto:datamanagement.mpi@gmail.com).
+You can reach us by writing an e-mail to [adina.wagner@t-online.de](mailto:adina.wagner@t-online.de).
 We will be faster via GitHub issue, though.

@@ -1,42 +1,41 @@
-Title:   Welcome
+Title:   Schedule
 Summary: General introduction and logistics
 Authors: Adina Wagner
-         Lennart Wittkuhn
-Date:    2020
+Date:    2022
 
-Welcome to the Data Management Workshop!
-Here is today's program:
+This is the current, **tentative** program schedule. It may be updated with details or content changed closer to the workshop date.
 
+**Thursday, April 21st**
 
 Time         | Session name               | Contents
-:----------- | :------------------------: | -----------:
-08.30-09.00  | Arrival                    | :wave:
-09.00-10.30  | First morning session      | Concepts, Motivation
-10.30-10.45  | *Coffee break*             | :coffee:
-10.45-12.15  | Second morning session     | Datalad concepts and principles
-12.15-13.15  | *Lunch break*              | :fries:
-13.15-14.45  | First afternoon session    | Reproducible Science
-14.45-15.00  | *Coffee break*             | :coffee:
-15.00-16.30  | Second afternoon session   | Data publication and collaboration
-16.30-17.00  | Wrap-up, remaining Qs      | Outlook
-___
+:----------- | ---------------------------| :-----------
+08.30-09.00  | Arrival (pre-workshop)     | :wave::coffee: join for a coffee!
+09.00-09.15  | Welcome                    | General organization and workshop overview
+09.15-10.45  | First morning session      | Version Control: Concepts, Motivation, Basics
+10.45-11.00  | *Coffee break*             | :coffee:
+11.00-12.30  | Second morning session     | Working with GitHub/Gin
+12.30-13.00  | Wrap-up                    | Wrap-up & remaining Qs
 
-Each session has one accompanying page on this homepage where you can find the general outline of the session.
-You can find the slides at FIXME/TODO
+**Friday, April 22nd**
 
+Time         | Session name               | Contents
+:----------- | :------------------------- | :-----------
+08.30-09.00  | Arrival (pre-workshop)     | :wave::coffee: join for a coffee!
+09.00-09.15  | Welcome                    | Time for left-over Q's
+09.15-10.45  | First morning session      | Data publication
+10.45-11.00  | *Coffee break*             | :coffee:
+11.00-12.30  | Second morning session     | Concepts & principles for reproducible science
+12.30-13.00  | Wrap-up                    | Wrap-up & remaining Qs
+
+
+Please note that we strive for an engaging atmosphere and encourage participation.
+If there are interesting discussions or further questions, we will try to flexibly adapt the indicated coffee breaks in coordination with the audience.
 
 # General logistics
 
 ## Code of Conduct
 
-This virtual conference has a Code of Conduct
-
-## BigBlueButton
-
-We will be using BigBlueButton for videoconferencing.
-If you have registered to attend, you will receive a link to the virtual room about one week prior to the workshop.
-
-You can familiarize yourself with BigBlueButton's features in their tutorials at [bigbluebutton.org](https://bigbluebutton.org/html5/).
+This virtual conference has a Code of Conduct [coc](../coc.md)
 
 ## Video recordings
 
@@ -51,16 +50,15 @@ The recording will **not** include:
 
 - Videos of participants that are not talking
 - Any chats
-- Any conversations/videos/chats from the breakout rooms.
+- Any conversations/videos/chats from breakout rooms.
+
 
 ## Live polling
 
 We are using the tool [directpoll.com](https://directpoll.com/).
-In order to vote, please go to [http://etc.ch/5xo7](https://directpoll.com/).
+In order to vote, please go to [TODO](https://directpoll.com/).
 Once we start the poll, you can select answers via button click.
 
-<iframe src="http://etc.ch/5xo7">
+<iframe src="TODO">
 
 
-- do people have SSH keys? (maybe relevant for data publication hands-on)
-- Make a poll on used operating system

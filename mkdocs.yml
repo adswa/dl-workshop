@@ -1,23 +1,15 @@
-site_name: Datamanagement Workshop at MPI Berlin
-site_author: Adina Wagner & Lennart Wittkuhn
-repo_url: https://github.com/adswa/mpi-datamanagement-ws
-site_url: https://adswa.github.io/mpi-datamanagement-ws/
-repo_name: adswa/mpi-datamanagement-ws
+site_name: DataLad Workshop @ UKE
+site_author: Adina Wagner
+repo_url: https://github.com/adswa/dl-workshop
+site_url: https://adswa.github.io/dl-workshop/
+repo_name: adswa/dl-workshop
 docs_dir: docs
-copyright: 'Copyright &copy 2020 Adina Wagner & Lennart Wittkuhn'
+copyright: 'Copyright &copy 2022 Adina Wagner'
 nav:
   - Data Management Workshop with DataLad: index.md
   - Preperations for participants: content/getting_started.md
   - Content:
-      - Welcome: content/welcome.md
-      - Motivation: content/motivation.md
-      - Basic Principles: content/basicprinciples.md
-      - Reproducible Science: content/reproduciblescience.md
-      - Data publication: content/datapublication.md
-  - Behind the scenes:
-      - Dashboard: organization/dashboard.md
-      - Ideas: organization/ideas.md
-      - Goals: organization/goals.md
+      - Schedule: content/welcome.md
   - Frequently Asked Questions: FAQ.md
   - Contributing: contributing.md
   - Code of Conduct: coc.md

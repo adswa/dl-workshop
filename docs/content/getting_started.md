@@ -1,25 +1,28 @@
 Title:   Getting started
 Summary: Session 0: Prerequisites and installation instructions
 Authors: Adina Wagner
-         Lennart Wittkuhn
 Date:    2020
 
-In order to follow workshop materials, please make sure that you install the relevant software and set it up appropriately.
+If you want to work on your own machine during the workshop, please make sure that you install the relevant software and set it up appropriately in advance.
 At the end of this page, a short script can help you to verify that everything works as it should.
 
 If you run into problems, please get in touch **prior** to the workshop.
-We are happy to help with installation problems or general questions, but a virtual workshop does not allow for any concurrent user support and help, unfortunately, and we thus won't be able to deal with problems that surface during the sessions. Reach out to us about problems as early as you can by filing an issue on our GitHub repository: [github.com/adswa/mpi-datamanagement-ws/](https://github.com/adswa/mpi-datamanagement-ws/issues/new).
+We are happy to help with installation problems or general questions, but a virtual workshop does not allow for any concurrent user support and help, unfortunately, and we thus won't be able to deal with problems that surface during the sessions. Reach out to us about problems as early as you can by filing an issue on our GitHub repository: [github.com/adswa/dl-workshop](https://github.com/adswa/dl-workshop/issues/new).
 
-If you haven't set up the software, you will be able to attend the workshop, but not work interactively on the materials.
+If you haven't set up the software, you can log into a Jupyter Hub instance we will provide.
 
 | **NOTE FOR WINDOWS USERS** |
 |------------------------------------------------------------------|
-| Previous workshop experiences have taught us that the installation of all required software is more complex on Windows systems. As there is also less available support for Windows users, we generally recommend that anyone who uses Windows should switch to an account on a shared compute cluster instead of using their private PC for this introduction, if possible. This eases the installation effort greatly.|
+| DataLad and its underlying tools work less well on Windows. An honest assessment can be found in the [DataLad handbook](http://handbook.datalad.org/en/latest/intro/windows.html). Alternatively to using your Windows OS you can use the Windows Subsystem for Linux (2), your institutions high-performance compute cluster, or the provided Jupyter hub.|
+
+| **NOTE FOR HCP/HTC USERS** |
+|------------------------------------------------------------------|
+| If you want to use shared high-performance or high-throughput infrastructure, but there is no DataLad installation yet, you can either install the required software on a per-user basis (no root privileges required) following [instructions](http://handbook.datalad.org/en/latest/intro/installation.html#linux-machines-with-no-root-access-e-g-hpc-systems) in the DataLad Handbook, or you can ask your system's administrator to install the software. Feel free to share adina.wagner@t-online.de as a point of contact for additional information and [handbook.datalad.org/r.html?install](http://handbook.datalad.org/en/latest/intro/installation.html#install) for installation instructions.|
 
 # An intro to the command line
 
 During the workshop we will primarily work with the command line.
-If you are not used to typing in your computer's terminal, we recommend that you familiarize yourself with the basics.
+If you are using your own computer, but are not used to typing in your computer's terminal, we recommend that you familiarize yourself with the basics.
 You can find a short tutorial [here](http://handbook.datalad.org/en/latest/intro/howto.html).
 
 # Software installation
@@ -30,39 +33,6 @@ You can find a short tutorial [here](http://handbook.datalad.org/en/latest/intro
 | **Git**: [git-scm.com](https://git-scm.com/)     |
 | **git-annex**: [git-annex.branchable.com/](https://git-annex.branchable.com/) |
 
-
-# Software setup
-
-If you haven't yet, please make sure to
-
-- Configure Git and
-- Create an SSH key
-
-prior to the workshop.
-
-During the workshop, we will demonstrate workflows that involve digital
-infrastructure from the MPIB, in particular the [MPIB GitLab instance](https://git.mpib-berlin.mpg.de/) and the [MPIB Keeper instance](https://keeper.mpdl.mpg.de).
-If you are affiliated with the MPIB and interested in working through these workflows as well, please make sure that you have a user account on both services.
-
-### Configure Git
-
-If you haven't yet used Git, you should configure it with your name and e-mail address.
-This information is used to connect saved changes with your person.
-The configuration can be done directly from the command line:
-
-```
-$ git config --global --add user.name "Bob McBobFace"
-$ git config --global --add user.email bob@example.com
-```
-
-### Set up an SSH key
-An SSH key is an access credential in the SSH protocol that can be used to login from one system to remote servers and services, such as from your private computer to an SSH server or to GitHub, without supplying your username or password at each visit.
-To use an SSH key for authentication, you need to generate a *key pair* on the system you would like to use to access a remote system or service (your computer or the cluster you use during this workshop).
-The pair consists of a private and a public key - basically two files with lots of gibberish.
-The public key file is shared with the remote server, and the private key file is used to authenticate your machine whenever you want to access the remote server or service.
-Services such as GitHub and GitLab use SSH keys and the SSH protocol to ease access to Git repositories.
-[This tutorial by GitHub](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) is a detailed step-by-step instruction to generate and use SSH keys for authentication.
-We recommend to also follow Step 3 of the tutorial and add the SSH key to your GitHub account.
 
 # Check your installation
 
@@ -89,4 +59,4 @@ If your shell returns ``command not found``, DataLad is missing. Please double c
 
 # Getting help
 
-If you run into problems, please reach out as early as you can by filing an issue on our GitHub repository: [github.com/adswa/mpi-datamanagement-ws/](https://github.com/adswa/mpi-datamanagement-ws/issues/new).
+If you run into problems, please reach out as early as you can by filing an issue on our GitHub repository: [github.com/adswa/mpi-datamanagement-ws/](https://github.com/adswa/dl-workshop/issues/new).
