@@ -19,7 +19,7 @@
     
     
       
-        <title>Getting started - DataLad Workshop @ UKE</title>
+        <title>Workshop preparations - DataLad Workshop @ UKE</title>
       
     
     
@@ -62,7 +62,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#an_intro_to_the_command_line" class="md-skip">
+        <a href="#software_installation" class="md-skip">
           Skip to content
         </a>
       
@@ -90,7 +90,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Getting started
+              Workshop preparations
             
           </span>
         </div>
@@ -229,15 +229,15 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#an_intro_to_the_command_line" class="md-nav__link">
-    An intro to the command line
+  <a href="#software_installation" class="md-nav__link">
+    Software installation
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#software_installation" class="md-nav__link">
-    Software installation
+  <a href="#an_intro_to_the_command_line" class="md-nav__link">
+    An intro to the command line
   </a>
   
 </li>
@@ -359,15 +359,15 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#an_intro_to_the_command_line" class="md-nav__link">
-    An intro to the command line
+  <a href="#software_installation" class="md-nav__link">
+    Software installation
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#software_installation" class="md-nav__link">
-    Software installation
+  <a href="#an_intro_to_the_command_line" class="md-nav__link">
+    An intro to the command line
   </a>
   
 </li>
@@ -408,10 +408,12 @@
                 
                   <h1>Preperations for participants</h1>
                 
-                <p>If you want to work on your own machine during the workshop, please make sure that you install the relevant software and set it up appropriately in advance.
-At the end of this page, a short script can help you to verify that everything works as it should.</p>
-<p>If you run into problems, please get in touch <strong>prior</strong> to the workshop.
-We are happy to help with installation problems or general questions, but a virtual workshop does not allow for any concurrent user support and help, unfortunately, and we thus won't be able to deal with problems that surface during the sessions. Reach out to us about problems as early as you can by filing an issue on our GitHub repository: <a href="https://github.com/adswa/dl-workshop/issues/new">github.com/adswa/dl-workshop</a>.</p>
+                <h2 id="software_installation">Software installation<a class="headerlink" href="#software_installation" title="Permanent link">&para;</a></h2>
+<p>If you want to work on your own machine during the workshop, please make sure to install the relevant software in advance.
+At the end of this page, a short script can help you to verify that everything works as it should.
+If you run into problems, please get in touch <strong>prior</strong> to the workshop.
+We are happy to help with installation problems or general questions any time, but have limited time during concurrent teaching in a virtual workshop setting.
+Reach out to us about problems as early as you can by filing an issue on our GitHub repository: <a href="https://github.com/adswa/dl-workshop/issues/new">github.com/adswa/dl-workshop</a>.</p>
 <p>If you haven't set up the software, you can log into a Jupyter Hub instance we will provide.</p>
 <table>
 <thead>
@@ -433,15 +435,10 @@ We are happy to help with installation problems or general questions, but a virt
 </thead>
 <tbody>
 <tr>
-<td>If you want to use shared high-performance or high-throughput infrastructure, but there is no DataLad installation yet, you can either install the required software on a per-user basis (no root privileges required) following <a href="http://handbook.datalad.org/en/latest/intro/installation.html#linux-machines-with-no-root-access-e-g-hpc-systems">instructions</a> in the DataLad Handbook, or you can ask your system's administrator to install the software. Feel free to share <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#100;&#105;&#110;&#97;&#46;&#119;&#97;&#103;&#110;&#101;&#114;&#64;&#116;&#45;&#111;&#110;&#108;&#105;&#110;&#101;&#46;&#100;&#101;">&#97;&#100;&#105;&#110;&#97;&#46;&#119;&#97;&#103;&#110;&#101;&#114;&#64;&#116;&#45;&#111;&#110;&#108;&#105;&#110;&#101;&#46;&#100;&#101;</a> as a point of contact for additional information and <a href="http://handbook.datalad.org/en/latest/intro/installation.html#install">handbook.datalad.org/r.html?install</a> for installation instructions.</td>
+<td>If you want to use shared high-performance or high-throughput infrastructure, but there is no DataLad installation yet, you can either install the required software on a per-user basis (no root privileges required) following <a href="http://handbook.datalad.org/en/latest/intro/installation.html#linux-machines-with-no-root-access-e-g-hpc-systems">these instructions</a> in the DataLad Handbook, or you can ask your system's administrator to install the software. Feel free to share <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#97;&#100;&#105;&#110;&#97;&#46;&#119;&#97;&#103;&#110;&#101;&#114;&#64;&#116;&#45;&#111;&#110;&#108;&#105;&#110;&#101;&#46;&#100;&#101;">&#97;&#100;&#105;&#110;&#97;&#46;&#119;&#97;&#103;&#110;&#101;&#114;&#64;&#116;&#45;&#111;&#110;&#108;&#105;&#110;&#101;&#46;&#100;&#101;</a> as a point of contact for additional information and <a href="http://handbook.datalad.org/en/latest/intro/installation.html#install">handbook.datalad.org/r.html?install</a> for installation instructions.</td>
 </tr>
 </tbody>
 </table>
-<h2 id="an_intro_to_the_command_line">An intro to the command line<a class="headerlink" href="#an_intro_to_the_command_line" title="Permanent link">&para;</a></h2>
-<p>During the workshop we will primarily work with the command line.
-If you are using your own computer, but are not used to typing in your computer's terminal, we recommend that you familiarize yourself with the basics.
-You can find a short tutorial <a href="http://handbook.datalad.org/en/latest/intro/howto.html">here</a>.</p>
-<h2 id="software_installation">Software installation<a class="headerlink" href="#software_installation" title="Permanent link">&para;</a></h2>
 <table>
 <thead>
 <tr>
@@ -460,6 +457,10 @@ You can find a short tutorial <a href="http://handbook.datalad.org/en/latest/int
 </tr>
 </tbody>
 </table>
+<h2 id="an_intro_to_the_command_line">An intro to the command line<a class="headerlink" href="#an_intro_to_the_command_line" title="Permanent link">&para;</a></h2>
+<p>During the workshop we will primarily work with the command line.
+If you are using your own computer, but are not used to typing in your computer's terminal, we recommend that you familiarize yourself with the basics.
+You can find a short tutorial <a href="http://handbook.datalad.org/en/latest/intro/howto.html">here</a>.</p>
 <h2 id="check_your_installation">Check your installation<a class="headerlink" href="#check_your_installation" title="Permanent link">&para;</a></h2>
 <p>To check whether everything worked out, please run the following command in your terminal (without the leading <code>$</code>):</p>
 <div class="highlight"><pre><span></span><code>$ datalad -f&#39;{infos[git-annex][version]}&#39; wtf
@@ -475,7 +476,7 @@ You can find a short tutorial <a href="http://handbook.datalad.org/en/latest/int
 <p>If you don't get a version number of <code>N/A</code>, git-annex is missing. Please double check by typing <code>git-annex</code> into your terminal and pressing enter - if your shell responds with <code>command not found</code>, please <a href="https://git-annex.branchable.com/install/">install git-annex</a>.</p>
 <p>If your shell returns <code>command not found</code>, DataLad is missing. Please double check by retrying this operation in a new shell or typing <code>rehash</code> beforehand.</p>
 <h2 id="getting_help">Getting help<a class="headerlink" href="#getting_help" title="Permanent link">&para;</a></h2>
-<p>If you run into problems, please reach out as early as you can by filing an issue on our GitHub repository: <a href="https://github.com/adswa/dl-workshop/issues/new">github.com/adswa/mpi-datamanagement-ws/</a>.</p>
+<p>If you run into problems, please reach out as early as you can by filing an issue on our GitHub repository: <a href="https://github.com/adswa/dl-workshop/issues/new">github.com/adswa/dl-workshop/</a>.</p>
                 
                   
                 
