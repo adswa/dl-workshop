@@ -70,11 +70,11 @@ In case of any questions about the registration, please write an e-mail to [adin
 
 ### Preparation
 
-The workshop will be held via [Zoom](https://zoom.us/download).
 We plan to provide browser-based access to a Jupyter Lab instance for every participant, but you can also use your own computer. 
-Participants planning to make use of the Jupyter Lab instance do not need to prepare in advance.
+**Participants planning to make use of the Jupyter Lab instance do not need to prepare in advance at this point.**
+
 We ask participants that want to use their own computer to prepare by installing and testing all required software prior to the workshop, and reach out early in advance to the [instructors](#instructors) if they require help. As the workshop is virtual, trouble-shooting during the workshop is only possible in a limited form.
-Instructions can be found in the section [Preparations for participants](content/getting_started.md).
+All required preparations can be found in the section [Preparations for participants](content/getting_started.md).
 
 ### Code of Conduct
 
@@ -87,7 +87,7 @@ Do you have questions or are missing information on this website? Here are your 
 
 1. Please check out the [Frequently Asked Questions (FAQ)](FAQ.md) which might already provide an answer to your question.
 2. Please open a [new Issue on GitHub](https://github.com/adswa/dl-workshop). We will then update the website accordingly with an answer. Please note, that the GitHub issues are public.
-3. Write us an e-mail at [datamanagement.mpi@gmail.com](mailto:datamanagement.mpi@gmail.com).
+3. Write an e-mail to [adina.wagner@t-online.de](mailto:adina.wagner@t-online.de).
 
 # Instructors
 
