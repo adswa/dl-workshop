@@ -8,7 +8,7 @@ Date:    2022
 - :book: **What?** Two-half-day workshop on [DataLad](https://www.datalad.org/)
 - :clock: **When?** 9am - 1pm (Berlin time) on Thursday, April 21st 2022 and Friday, April 22nd 2022
 - :house: **Where?** Virtual (links to video-conference system will be provided via e-mail following [registration via the online form](#logistics))
-- :smiley: **Who?** Everyone who would like to learn about data management and DataLad is invited to participate. The target audience are researchers of all career stages at the [Institute of Systems Neuroscience of the University Clinic Hamburg](https://www.uke.de/english/departments-institutes/institutes/systems-neuroscience/index.html).
+- :smiley: **Who?** Everyone who would like to learn about DataLad is invited to participate. The target audience are researchers of all career stages at the [Institute of Systems Neuroscience of the University Clinic Hamburg](https://www.uke.de/english/departments-institutes/institutes/systems-neuroscience/index.html).
 - :moneybag: **Costs?** The workshop is free to attend.
 
 ---

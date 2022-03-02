@@ -30,4 +30,3 @@ We encourage you to submit an [issue](https://github.com/adswa/dl-workshop) with
 ## Alternative means of contact
 
 You can reach us by writing an e-mail to [adina.wagner@t-online.de](mailto:adina.wagner@t-online.de).
-We will be faster via GitHub issue, though.

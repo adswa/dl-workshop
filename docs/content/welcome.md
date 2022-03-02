@@ -33,10 +33,6 @@ If there are interesting discussions or further questions, we will try to flexib
 
 # General logistics
 
-## Code of Conduct
-
-This virtual conference has a Code of Conduct [coc](../coc.md)
-
 ## Video recordings
 
 Please note that the workshop will be recorded.

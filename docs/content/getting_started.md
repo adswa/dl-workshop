@@ -1,13 +1,15 @@
-Title:   Getting started
+Title:   Workshop preparations
 Summary: Session 0: Prerequisites and installation instructions
 Authors: Adina Wagner
 Date:    2020
 
-If you want to work on your own machine during the workshop, please make sure that you install the relevant software and set it up appropriately in advance.
-At the end of this page, a short script can help you to verify that everything works as it should.
+# Software installation
 
+If you want to work on your own machine during the workshop, please make sure to install the relevant software in advance.
+At the end of this page, a short script can help you to verify that everything works as it should.
 If you run into problems, please get in touch **prior** to the workshop.
-We are happy to help with installation problems or general questions, but a virtual workshop does not allow for any concurrent user support and help, unfortunately, and we thus won't be able to deal with problems that surface during the sessions. Reach out to us about problems as early as you can by filing an issue on our GitHub repository: [github.com/adswa/dl-workshop](https://github.com/adswa/dl-workshop/issues/new).
+We are happy to help with installation problems or general questions any time, but have limited time during concurrent teaching in a virtual workshop setting.
+Reach out to us about problems as early as you can by filing an issue on our GitHub repository: [github.com/adswa/dl-workshop](https://github.com/adswa/dl-workshop/issues/new).
 
 If you haven't set up the software, you can log into a Jupyter Hub instance we will provide.
 
@@ -17,7 +19,15 @@ If you haven't set up the software, you can log into a Jupyter Hub instance we w
 
 | **NOTE FOR HCP/HTC USERS** |
 |------------------------------------------------------------------|
-| If you want to use shared high-performance or high-throughput infrastructure, but there is no DataLad installation yet, you can either install the required software on a per-user basis (no root privileges required) following [instructions](http://handbook.datalad.org/en/latest/intro/installation.html#linux-machines-with-no-root-access-e-g-hpc-systems) in the DataLad Handbook, or you can ask your system's administrator to install the software. Feel free to share adina.wagner@t-online.de as a point of contact for additional information and [handbook.datalad.org/r.html?install](http://handbook.datalad.org/en/latest/intro/installation.html#install) for installation instructions.|
+| If you want to use shared high-performance or high-throughput infrastructure, but there is no DataLad installation yet, you can either install the required software on a per-user basis (no root privileges required) following [these instructions](http://handbook.datalad.org/en/latest/intro/installation.html#linux-machines-with-no-root-access-e-g-hpc-systems) in the DataLad Handbook, or you can ask your system's administrator to install the software. Feel free to share adina.wagner@t-online.de as a point of contact for additional information and [handbook.datalad.org/r.html?install](http://handbook.datalad.org/en/latest/intro/installation.html#install) for installation instructions.|
+
+
+| **The following software is required to follow along interactively.** Please install it as early as you can |
+|------------------------------------------------------------------|
+| **DataLad**: [handbook.datalad.org/intro/installation.html](http://handbook.datalad.org/en/latest/intro/installation.html) (depending on installation method and operating system, Git and git-annex can already be included a DataLad installation)|
+| **Git**: [git-scm.com](https://git-scm.com/)     |
+| **git-annex**: [git-annex.branchable.com/](https://git-annex.branchable.com/) |
+
 
 # An intro to the command line
 
@@ -25,13 +35,6 @@ During the workshop we will primarily work with the command line.
 If you are using your own computer, but are not used to typing in your computer's terminal, we recommend that you familiarize yourself with the basics.
 You can find a short tutorial [here](http://handbook.datalad.org/en/latest/intro/howto.html).
 
-# Software installation
-
-| **The following software is required to follow along interactively.** Please install it as early as you can |
-|------------------------------------------------------------------|
-| **DataLad**: [handbook.datalad.org/intro/installation.html](http://handbook.datalad.org/en/latest/intro/installation.html) (depending on installation method and operating system, Git and git-annex can already be included a DataLad installation)|
-| **Git**: [git-scm.com](https://git-scm.com/)     |
-| **git-annex**: [git-annex.branchable.com/](https://git-annex.branchable.com/) |
 
 
 # Check your installation
@@ -59,4 +62,4 @@ If your shell returns ``command not found``, DataLad is missing. Please double c
 
 # Getting help
 
-If you run into problems, please reach out as early as you can by filing an issue on our GitHub repository: [github.com/adswa/mpi-datamanagement-ws/](https://github.com/adswa/dl-workshop/issues/new).
+If you run into problems, please reach out as early as you can by filing an issue on our GitHub repository: [github.com/adswa/dl-workshop/](https://github.com/adswa/dl-workshop/issues/new).
