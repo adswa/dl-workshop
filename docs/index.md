@@ -1,4 +1,4 @@
-Title:   DataLad Workshop
+Title:   DataLad Workshop @ UKE Hamburg
 Summary: Overview of the workshop and its scope
 Authors: Adina Wagner
 Date:    2022
