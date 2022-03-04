@@ -5,7 +5,8 @@ The workshop will be held virtually via the video conference system [Zoom](https
 
 ## How can I participate in the workshop?
 
-Please register via [this Google Form](https://forms.gle/vGtkpfNGasutV4Rt7).
+Please register via Lukas Neugebauer (l.neugebauer@uke.de).
+To help shape the workshop to your interests, consider answering [this Google Form](https://forms.gle/vGtkpfNGasutV4Rt7).
 We will send out a link and password to the video conference prior to the workshop.
 
 ## I can't join both days - is this a problem?
