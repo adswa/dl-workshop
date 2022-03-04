@@ -1,7 +1,7 @@
 ## When and where will the workshop take place?
 
 On Thursday, April 21st 2022, and Friday, April 22nd 2022 from 9am - 1pm (Berlin time).
-The workshop will be help virtually via the video conference system [Zoom](https://zoom.us).
+The workshop will be held virtually via the video conference system [Zoom](https://zoom.us).
 
 ## How can I participate in the workshop?
 
@@ -10,12 +10,14 @@ We will send out a link and password to the video conference prior to the worksh
 
 ## I can't join both days - is this a problem?
 
-We will make sure to record the tutorials and publish them after the workshop (see below), and you can join or leave the Zoom call freely during the workshop days.
-However, most elements of the workshop build up consecutively and we can't guarantee that you can join in live participation smoothly at all times.
+You can join or leave the Zoom call freely during the workshop days.
+We hope to record the tutorials and publish them after the workshop, given all attendees are fine with this (see below).
+Do note that most elements of the workshop build up consecutively and we can't guarantee that you can join in live participation smoothly at all times.
 
 ## Are materials and talks available after the workshop as well?
 
-Yes. The materials on this website will be available, and recordings of the tutorials will be published to YouTube afterwards.
+The workshop materials and this website will be available after the workshop.
+We hope to record the tutorials and publish them to YouTube afterwards, but this will be determined at the start of the workshop based on all participants wishes.
 
 ## Whom is this workshop for?
 

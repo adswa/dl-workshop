@@ -35,19 +35,15 @@ If there are interesting discussions or further questions, we will try to flexib
 
 ## Video recordings
 
-Please note that the workshop will be recorded.
-The recording will include the following aspects of the main conferencing room:
+We hope to record the workshop in order to provide resources for attendees that missed the workshop or want to revisit materials.
+However, the final decision will be made together with the participants on the first day of the workshop.
+A recording would include the following aspects of the main conferencing room:
 
 - Slides/Screenshares
 - Potentially videos of the speakers
 - All audio
 
-The recording will **not** include:
-
-- Videos of participants that are not talking
-- Any chats
-- Any conversations/videos/chats from breakout rooms.
-
+The recording can be stopped or edited after the workshop to exclude discussions or question sessions.
 
 ## Live polling
 

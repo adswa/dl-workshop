@@ -55,7 +55,7 @@ This workshop can be interesting for you if you have always wanted to get going 
 
 The workshop will take place virtually in two half-days, from 9am to 1pm (Berlin time) on Thursday, 21st of April, and Friday, 22nd of April.
 Small breaks will be provided.
-Materials and recordings will be made available publicly after the workshop.
+Materials - and if participants are supportive also recordings of tutorials - will be made available publicly after the workshop.
 
 ### Registration
 
