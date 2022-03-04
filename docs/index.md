@@ -7,7 +7,7 @@ Date:    2022
 
 - :book: **What?** Two-half-day workshop on [DataLad](https://www.datalad.org/)
 - :clock: **When?** 9am - 1pm (Berlin time) on Thursday, April 21st 2022 and Friday, April 22nd 2022
-- :house: **Where?** Virtual (links to video-conference system will be provided via e-mail). Please register with [Lukas Neugebauer (l.neugebauer@uke.de)](mailto:l.neugebauer@uke.de) (see [registration ](#logistics))
+- :house: **Where?** Virtual (links to video-conference system will be provided via e-mail). Please register with [Tobias Sommer (t.sommer@uke.de))](mailto:t.sommer@uke.de)) (see [registration ](#logistics))
 - :smiley: **Who?** Everyone who would like to learn about DataLad is invited to participate. The target audience are researchers of all career stages at the [Institute of Systems Neuroscience of the University Clinic Hamburg and affiliated research groups](https://www.uke.de/english/departments-institutes/institutes/systems-neuroscience/index.html).
 - :moneybag: **Costs?** The workshop is free to attend.
 
@@ -61,7 +61,7 @@ Materials - and if participants are supportive also recordings of tutorials - wi
 
 Attendance is free, but a registration is required.
 
-:arrow_right: **To register for the workshop, please reach out to Lukas Neugebauer ([l.neugebauer@uke.de](mailto:l.neugebauer@uke.de))**. A short, optional survey to help us to better prepare for audience of the workshop is in [this online form](https://forms.gle/3UKayKhS3NbH2K8w8).
+:arrow_right: **To register for the workshop, please reach out to Tobias Sommer ([t.sommer@uke.de)](mailto:t.sommer@uke.de))**. A short, optional survey to help us to better prepare for audience of the workshop is in [this online form](https://forms.gle/3UKayKhS3NbH2K8w8).
 
 Your e-mail address will be used to send out further information as well as log in details to the virtual meeting.
 Your data will be not be stored beyond the workshop, and is only used for workshop coordination.

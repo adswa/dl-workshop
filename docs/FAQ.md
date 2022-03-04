@@ -5,7 +5,7 @@ The workshop will be held virtually via the video conference system [Zoom](https
 
 ## How can I participate in the workshop?
 
-Please register via Lukas Neugebauer (l.neugebauer@uke.de).
+Please register via Tobias Sommer (t.sommer@uke.de).
 To help shape the workshop to your interests, consider answering [this Google Form](https://forms.gle/vGtkpfNGasutV4Rt7).
 We will send out a link and password to the video conference prior to the workshop.
 
