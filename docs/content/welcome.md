@@ -11,9 +11,12 @@ Time         | Session name               | Contents
 :----------- | ---------------------------| :-----------
 08.30-09.00  | Arrival (pre-workshop)     | :wave::coffee: join for a coffee!
 09.00-09.15  | Welcome                    | General organization and workshop overview
-09.15-10.45  | First morning session      | Version Control: Concepts, Motivation, Basics
-10.45-11.00  | *Coffee break*             | :coffee:
-11.00-12.30  | Second morning session     | Working with GitHub/Gin
+09.15-09.45  | Motivation and overview    | 1000-feet view on DataLad and the problems it can help to solve
+09.45-10.30  | First session              | Motivation & Basics of version control
+10.30-10.45  | *Bio break*                | :coffee:
+10.45-11.30  | Second session             | A look underneath the hood
+11.30-11.45  | *Bio break*                | :coffee:
+11.30-12.30  | Third session              | Branching OR removing things OR both
 12.30-13.00  | Wrap-up                    | Wrap-up & remaining Qs
 
 **Friday, April 22nd**
