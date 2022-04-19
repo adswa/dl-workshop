@@ -463,11 +463,14 @@ If you are using your own computer, but are not used to typing in your computer'
 You can find a short tutorial <a href="http://handbook.datalad.org/en/latest/intro/howto.html">here</a>.</p>
 <h2 id="check_your_installation">Check your installation<a class="headerlink" href="#check_your_installation" title="Permanent link">&para;</a></h2>
 <p>To check whether everything worked out, please run the following command in your terminal (without the leading <code>$</code>):</p>
-<div class="highlight"><pre><span></span><code>$ datalad -f&#39;{infos[git-annex][version]}&#39; wtf
+<div class="highlight"><pre><span></span><code>$ datalad --version
+0.16.1
+$ datalad -f&#39;{infos[git-annex][version]}&#39; wtf
 8.20200330
 </code></pre></div>
 
-<p>If this returns a version number as above (it does not need to be identical to <code>8.20200330</code>), you're good! 👍</p>
+<p>If this returns two version numbers as above and no errors, you're good! 👍
+However, make sure that the first version is <code>0.16</code> or higher (the second one does not need to be identical to <code>8.20200330</code>, and it might also start with a <code>10</code>).</p>
 <h4>Potential errors:</h4>
 <p>If you see the following, your Git identity isn't configured yet:</p>
 <div class="highlight"><pre><span></span><code>It is highly recommended to configure Git before using DataLad. Set both &#39;user.name&#39; and &#39;user.email&#39; configuration variables.
