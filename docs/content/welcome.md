@@ -25,10 +25,11 @@ Time         | Session name               | Contents
 :----------- | :------------------------- | :-----------
 08.30-09.00  | Arrival (pre-workshop)     | :wave::coffee: join for a coffee!
 09.00-09.15  | Welcome                    | Time for left-over Q's
-09.15-10.45  | First morning session      | Data publication
+09.15-10.00  | First morning session      | Data publication
+10.00-10.45  | Second morning session     | Remote collaboration
 10.45-11.00  | *Coffee break*             | :coffee:
-11.00-12.30  | Second morning session     | Concepts & principles for reproducible science
-12.30-13.00  | Wrap-up                    | Wrap-up & remaining Qs
+11.00-12.00  | Third morning session      | Concepts & principles for reproducible science
+12.00-13.00  | Wrap-up                    | Discussing individual use cases, wrap-up & remaining Qs
 
 
 Please note that we strive for an engaging atmosphere and encourage participation.
